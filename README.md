@@ -1,2 +1,2 @@
 # South-Africa-Language-Detection
- An amazing project, the Language Detection model using Natural Language Processing
+ An interesting project, the Language Detection model using Natural Language Processing
