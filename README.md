@@ -1,3 +1,2 @@
 # South-Africa-Language-Detection
- An interesting project, the Language Detection model using Natural Language Processing
-    Add more explanations here
+ Training a classification model to predict in which South African language a piece of text is written in.
